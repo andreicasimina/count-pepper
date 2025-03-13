@@ -52,3 +52,29 @@ https://docs.ultralytics.com/quickstart/
 ```
 pip install ultralytics
 ```
+
+# Folder Sumarry
+
+* environment-test
+Code to test if the environment is properly setup.
+Run with the following command:
+```
+python3 filename.py
+```
+
+* train
+Notebook for training object detection model.
+
+* detect
+Code for detection.
+Run with the following command:
+```
+python3 filename.py
+```
+
+* count
+Code for counting.
+Run with the following command:
+```
+python3 filename.py
+```
